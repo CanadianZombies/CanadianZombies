@@ -48,7 +48,7 @@ I work best where stakes are high, requirements are messy, and failure isn’t a
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CanadianZombies&show_icons=true&hide_title=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CanadianZombies&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=CanadianZombies&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CanadianZombies&layout=compact)
 
@@ -81,7 +81,7 @@ Streaming keeps my skills sharp and my solutions honest.
 
 ## ⭐ Featured Projects
 
-> *(Pin these repos on your profile for maximum impact)*
+> *Current projects, private repos, for now*
 
 ### 🧨 Project: Enterprise Automation Toolkit
 
