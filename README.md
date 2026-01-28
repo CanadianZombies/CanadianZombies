@@ -5,6 +5,14 @@
 **Veteran software engineer with 20+ years building enterprise-grade solutions.**
 Former military professional turned problem-solver — designing systems that stay online when everything else is on fire.
 
+🪖 Service Record
+
+- 🪖 21+ years military service
+- 💻 20+ years engineering experience
+- ⚙️ Enterprise & mission-critical systems
+- 🧨 Automation, APIs, integrations
+- 🎮 Live system testing via Twitch
+
 > *Welcome to the fallout zone. Reliability is not optional.*
 
 ---
@@ -46,12 +54,9 @@ I work best where stakes are high, requirements are messy, and failure isn’t a
 
 ## 📊 GitHub Intel
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CanadianZombies&show_icons=true&hide_title=true)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/CanadianZombies/CanadianZombies?style=for-the-badge&color=darkgreen)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CanadianZombies&layout=compact)
-
+| GitHub Stats | Top Languages |
+|-------------|---------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CanadianZombies&show_icons=true&hide_title=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CanadianZombies&layout=compact&theme=dark) |
 
 ---
 
@@ -111,3 +116,5 @@ If you like clean solutions, controlled chaos, and engineering that holds the li
 ---
 
 > *Built for reliability. Tested under pressure. Deployed to the fallout zone.*
+
+![Twitch Status](https://img.shields.io/twitch/status/simmydizzle) ![GitHub last commit](https://img.shields.io/github/last-commit/CanadianZombies/CanadianZombies?style=for-the-badge&color=darkgreen) ![GitHub watchers](https://img.shields.io/github/watchers/CanadianZombies/:repo) ![GitHub followers](https://img.shields.io/github/followers/CanadianZombies) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/%40LiveSimmy) ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=livesimmy) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/livesimmy)
