@@ -48,7 +48,7 @@ I work best where stakes are high, requirements are messy, and failure isn’t a
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CanadianZombies&show_icons=true&hide_title=true)
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=CanadianZombies&theme=dark&hide_border=true)
+![GitHub last commit](https://img.shields.io/github/last-commit/CanadianZombies/CanadianZombies?style=for-the-badge&color=darkgreen)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CanadianZombies&layout=compact)
 
