@@ -46,11 +46,12 @@ I work best where stakes are high, requirements are messy, and failure isn’t a
 
 ## 📊 GitHub Intel
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CanadianZombies\&show_icons=true\&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CanadianZombies&show_icons=true&hide_title=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=CanadianZombies)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CanadianZombies&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CanadianZombies\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CanadianZombies&layout=compact)
+
 
 ---
 
