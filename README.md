@@ -2,7 +2,9 @@
 
 ## Veteran Software Engineer | Military Veteran | Builder
 
-Veteran software engineer with 20+ years of experience building enterprise-grade solutions. Former military professional turned problem-solver, specializing in scalable systems, automation, and reliability under pressure.
+Veteran software engineer with 20+ years of experience building enterprise-grade solutions.
+Former military professional turned problem-solver, specializing in scalable systems, automation, and real-world engineering under pressure.
+Part-time streamer, full-time tinkerer—always shipping, always learning.
 
 ---
 
@@ -21,6 +23,7 @@ I enjoy working where systems, people, and chaos intersect — especially when r
 
 **Languages & Frameworks**
 
+* C/C++
 * C# / .NET
 * Python
 * JavaScript
@@ -50,6 +53,7 @@ Before software engineering, I served in the **military**, where discipline, exe
 
 Part-time streamer focused on:
 
+* Streamer Tool development / deployment
 * Live problem-solving
 * Building automation on-stream
 * Breaking systems (safely) and rebuilding them better
