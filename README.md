@@ -30,25 +30,12 @@ I work best where stakes are high, requirements are messy, and failure isn’t a
 
 ## 🛠 Loadout (Tech Stack)
 
-**Languages & Frameworks**
-
-* C / C++
-* C# / .NET
-* Python
-* JavaScript
-
-**Systems & Tooling**
-
-* API design & integration
-* Automation pipelines
-* Webhooks & event-driven systems
-* OBS / Streamer.bot integrations
-
-**Platforms**
-
-* Windows
-* Linux
-* Cloud & on-prem environments
+| **Languages & Frameworks** | **Systems & Tooling** | && Platforms **
+|-------------|---------------|---------------|
+| * C / C++ | * API design & integration | Windows |
+| * C# / .NET | * Automation pipelines | Linux |
+| * Python | * Webhooks & event-driven systems | Cloud & on-prem environments |
+| * JavaScript | * OBS / Streamer.bot integrations |
 
 ---
 
