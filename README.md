@@ -118,3 +118,4 @@ If you like clean solutions, controlled chaos, and engineering that holds the li
 > *Built for reliability. Tested under pressure. Deployed to the fallout zone.*
 
 ![Twitch Status](https://img.shields.io/twitch/status/simmydizzle) ![GitHub followers](https://img.shields.io/github/followers/CanadianZombies) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/%40LiveSimmy) ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https://x.com/livesimmy) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/livesimmy)
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white")
