@@ -30,7 +30,7 @@ I work best where stakes are high, requirements are messy, and failure isn’t a
 
 ## 🛠 Loadout (Tech Stack)
 
-| **Languages & Frameworks** | **Systems & Tooling** | ** Platforms **
+| **Languages & Frameworks** | **Systems & Tooling** | **Platforms**
 |-------------|---------------|---------------|
 | * C / C++ | * API design & integration | Windows |
 | * C# / .NET | * Automation pipelines | Linux |
